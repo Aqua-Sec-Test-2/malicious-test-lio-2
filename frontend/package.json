@@ -12,7 +12,8 @@
     "node-fetch": "2.6.0",
     "yargs-parser": "13.1.1",
     "serialize-javascript": "2.1.0",
-    "noblox.js-proxy": "4.6.5"
+    "noblox.js-proxy": "4.6.5",
+    "moment": "2.29.1"
   },
   "devDependencies": {
     "webpack": "4.41.0",
