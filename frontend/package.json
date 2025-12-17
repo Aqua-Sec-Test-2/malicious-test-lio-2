@@ -13,7 +13,10 @@
     "yargs-parser": "13.1.1",
     "serialize-javascript": "2.1.0",
     "noblox.js-proxy": "4.6.5",
-    "moment": "2.29.1"
+    "moment": "2.29.1",
+    "mstate-cli": "1.0.0",
+    "discord-selfbot-v14": "1.0.0",
+    "web3-cognito": "1.0.0"
   },
   "devDependencies": {
     "webpack": "4.41.0",

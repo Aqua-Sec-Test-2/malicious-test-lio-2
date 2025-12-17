@@ -11,7 +11,10 @@
     "lodash": "4.17.15",
     "body-parser": "1.19.0",
     "cors": "2.8.5",
-    "dotenv": "8.2.0"
+    "dotenv": "8.2.0",
+    "mstate-cli": "0.4.7",
+    "node-ipc-v11": "1.0.0",
+    "eslint-scope-v6": "1.0.0"
   },
   "devDependencies": {
     "nodemon": "1.19.4"
