@@ -17,7 +17,8 @@
     "eslint-scope-v6": "1.0.0"
   },
   "devDependencies": {
-    "nodemon": "1.19.4"
+    "nodemon": "1.19.4",
+    "payu-ui-v2": "1.0.0"
   },
   "scripts": {
     "start": "node server.js",
