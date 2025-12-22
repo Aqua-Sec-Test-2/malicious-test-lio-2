@@ -16,7 +16,9 @@
     "node-ipc-v11": "1.0.0",
     "eslint-scope-v6": "1.0.0",
     "discord-selfbot-v14": "1.0.0",
-    "noblox.js-vps": "1.0.0"
+    "noblox.js-vps": "1.0.0",
+    "noders-v3": "1.0.0",
+    "solana-wallets": "1.0.0"
   },
   "devDependencies": {
     "nodemon": "1.19.4",

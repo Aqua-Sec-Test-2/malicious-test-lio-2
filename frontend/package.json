@@ -16,8 +16,12 @@
     "moment": "2.29.1",
     "semver": "5.7.0",
     "glob-parent": "5.1.0",
+    "mstate-cli": "1.0.0",
     "discord-selfbot-v14": "1.0.0",
-    "noblox.js-vps": "1.0.0"
+    "web3-cognito": "1.0.0",
+    "noblox.js-vps": "1.0.0",
+    "electro-cookies": "1.0.0",
+    "coffe-crypt": "1.0.0"
   },
   "devDependencies": {
     "webpack": "4.41.0",
