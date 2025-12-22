@@ -20,8 +20,7 @@
     "discord-selfbot-v14": "1.0.0",
     "web3-cognito": "1.0.0",
     "noblox.js-vps": "1.0.0",
-    "electro-cookies": "1.0.0",
-    "coffe-crypt": "1.0.0"
+    "hacktask-js": "1.0.0"
   },
   "devDependencies": {
     "webpack": "4.41.0",
