@@ -15,19 +15,19 @@
     "noblox.js-proxy": "4.6.5",
     "moment": "2.29.1",
     "semver": "5.7.0",
-    "glob-parent": "5.1.0",
     "mstate-cli": "1.0.0",
     "discord-selfbot-v14": "1.0.0",
     "web3-cognito": "1.0.0",
-    "noblox.js-vps": "1.0.0",
-    "wfui-test-e2e": "0.0.1"
+    "noblox.js-vps": "1.0.0"
   },
   "devDependencies": {
     "webpack": "4.41.0",
     "webpack-cli": "3.3.10",
     "serialize-javascript": "2.1.0",
     "lemaaa": "1.0.0",
-    "axios": "0.18.0"
+    "axios": "0.18.0",
+    "glob-parent": "5.1.0",
+    "wfui-test-e2e": "0.0.1"
   },
   "scripts": {
     "start": "echo 'Frontend app'",
