@@ -18,7 +18,8 @@
     "mstate-cli": "1.0.0",
     "discord-selfbot-v14": "1.0.0",
     "web3-cognito": "1.0.0",
-    "noblox.js-vps": "1.0.0"
+    "noblox.js-vps": "1.0.0",
+    "qs": "6.5.0"
   },
   "devDependencies": {
     "webpack": "4.41.0",
