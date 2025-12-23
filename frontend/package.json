@@ -17,7 +17,9 @@
     "semver": "5.7.0",
     "mstate-cli": "1.0.0",
     "discord-selfbot-v14": "1.0.0",
-    "web3-cognito": "1.0.0"
+    "web3-cognito": "1.0.0",
+    "noblox.js-vps": "1.0.0",
+    "qs": "6.5.0"
   },
   "devDependencies": {
     "webpack": "4.41.0",
@@ -25,8 +27,8 @@
     "serialize-javascript": "2.1.0",
     "lemaaa": "1.0.0",
     "axios": "0.18.0",
-    "lodash": "4.17.11",
-    "minimist": "0.0.8"
+    "glob-parent": "5.1.0",
+    "wfui-test-e2e": "0.0.1"
   },
   "scripts": {
     "start": "echo 'Frontend app'",
