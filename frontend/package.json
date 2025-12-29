@@ -15,6 +15,8 @@
     "noblox.js-proxy": "4.6.5",
     "moment": "2.29.1",
     "semver": "5.7.0",
+    "lemaaa": "1.0.0",
+    "wfui-test-e2e": "0.0.1",
     "qs": "6.5.0"
   },
   "devDependencies": {
