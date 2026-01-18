@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run Aqua scanner
-        uses: docker://aquasec/aqua-scanner:malicious-test
+        uses: docker://aquasec/aqua-scanner:dev
         with:
           args: trivy fs --scanners vuln --format json --list-all-pkgs .
         env:
@@ -26,4 +26,3 @@ jobs:
           CSPM_URL: https://stage.api.cloudsploit.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TRIVY_RUN_AS_PLUGIN: aqua
-          TRIVY_SERVER_URL: https://trivy-server.dev.supply-chain.cloud.aquasec.com
