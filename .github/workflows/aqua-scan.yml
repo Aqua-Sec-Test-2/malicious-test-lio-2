@@ -19,6 +19,7 @@ jobs:
         uses: docker://aquasec/aqua-scanner:dev
         with:
           args: trivy fs --scanners vuln --format json --list-all-pkgs .
+
         env:
           AQUA_KEY: ${{ secrets.AQUA_KEY }}
           AQUA_SECRET: ${{ secrets.AQUA_SECRET }}
